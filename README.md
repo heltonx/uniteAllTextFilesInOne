@@ -22,3 +22,6 @@ uniqueFile.txt
  Content 2
  Content 3'
 
+OBSERVATIONS:
+#Tested at Windows (Python 3.11.2) and Xubuntu (Python 3)
+In Windows, the script is writing the files in alphanumeri order (according the file name), but in Linux is writing in reverse order
