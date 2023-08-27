@@ -19,7 +19,9 @@ After run, the script will make a new text file:
 
 uniqueFile.txt
 'Content 1
+
  Content 2
+ 
  Content 3'
 
 OBSERVATIONS:
