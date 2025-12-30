@@ -1,3 +1,5 @@
+last test: about 2 years ago
+
 # uniteAllTextFilesInOne
 This script unites all the text files in a directory an join them in one file, puting a new line for each file added.
 
